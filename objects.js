@@ -13,4 +13,6 @@ var playlist = {
     return playlist;
   }
   
-  
+  function removeFromPlaylist(playlist, artistName) {
+    
+  }
