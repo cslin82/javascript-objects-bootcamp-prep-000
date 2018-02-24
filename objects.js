@@ -6,6 +6,6 @@ var playlist = {
   radiohead: "Exit Music for a film"
   
   updatePlaylist: function(playlist, artistName, songTitle )
-  
+  artistName: songTitle
 };
 
