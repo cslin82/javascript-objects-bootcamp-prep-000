@@ -5,7 +5,8 @@ var playlist = {
   metric: "Gimme Sympathy",
   radiohead: "Exit Music for a film"
   
-  updatePlaylist: function(playlist, artistName, songTitle )
-  artistName: songTitle
 };
 
+
+  updatePlaylist: function(playlist, artistName, songTitle )
+  artistName: songTitle
